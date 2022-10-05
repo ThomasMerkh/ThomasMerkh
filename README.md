@@ -38,9 +38,6 @@
 <br>
 <hr>
 <footer>
-    <p style="font-size:14px;">
-        👉 Shout out to my friend @kbergsund for originally templating this readme, follow her!
-    </p>
 </footer>
 
 <!-- This isn't representative at all, lol. But cool nonetheless.
