@@ -4,7 +4,6 @@
   <li>I'm currently employed at Q-CTRL, a Sydney/LA based quantum computing start-up. We develop cutting edge quantum control engineering solutions!
   <li>Lately I've been working on developing a performant cloud-based quantum compiler and automating workflows.</li>
   <li>I’m always learning AWS, Kubernetes, automation, and best practices. Next up, GitOps, Apache tools like Spark and Airflow, and more!</li> 
-  <li>I enjoy audiobooks, soaking up the LA sun, and derivatives trading.</li>
 </ul>
 <a href="mailto:tom.merkh@q-ctrl.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail icon"/></a>
 <a href="https://www.linkedin.com/in/thomas-merkh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn icon"/></a>
